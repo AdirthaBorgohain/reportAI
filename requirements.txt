@@ -1,0 +1,16 @@
+openai
+python-box
+wasabi
+tenacity
+tiktoken
+pika
+langchain
+langchain_openai
+langchain_anthropic
+pyppeteer
+python-dotenv
+msgpack
+pypdf
+beautifulsoup4
+pandas
+httpx

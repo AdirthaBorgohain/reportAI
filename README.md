@@ -1,17 +1,16 @@
 # ReportAI
-<div style="text-align: center;">
-    <img alt="ReportAI Logo" src="report_ai/assets/reportAI-logo.png" width="200"/>
-</div>
 
-ReportAI is a Python-based tool that generates comprehensive PDF reports using AI. Simply input conversations with an AI
-model in a structured format, and ReportAI will produce a detailed report complete with an executive summary, properly
-formatted sections, tables, and figures. Using cleverly implemented techniques to deduplicate any repeated content in
-the report, it ensures all the content are straight to the point while being descriptive without creating any repetition
-on the report content.
+<img alt="reportAI Logo" src="https://raw.githubusercontent.com/AdirthaBorgohain/ReportAI/main/report_ai/assets/reportAI-logo.png" width="200"/>
+
+reportAI is a Python-based tool that generates comprehensive PDF research reports using AI. Simply input conversations 
+with an AI model in a structured format, and reportAI will produce a detailed report complete with an executive summary, 
+properly formatted sections, tables, and figures. Using cleverly implemented techniques to deduplicate any repeated 
+content in the report, it ensures all the content are straight to the point while being descriptive without creating 
+any repetition on the report content.
 
 ## Features
 
-- Generates detailed reports from AI-generated conversations.
+- Generates detailed research reports from AI-generated conversations.
 - Produces sections with headers, tables, and figures.
 - Customizable via environment variables.
 - Easy to use with minimal setup.
@@ -21,8 +20,8 @@ on the report content.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ReportAI.git
-cd ReportAI
+git clone https://github.com/yourusername/reportAI.git
+cd reportAI
 ```
 
 2. Install the required dependencies:
@@ -64,5 +63,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ### This project is built using:
 
 <a href="https://github.com/langchain/langchain" target="_blank">
-    <img alt="LangChain Logo" src="report_ai/assets/langchain-logo-light.svg" width="100"/>
+    <img alt="LangChain Logo" src="https://raw.githubusercontent.com/AdirthaBorgohain/ReportAI/main/report_ai/assets/langchain-logo-light.svg" width="100"/>
 </a>
