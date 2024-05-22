@@ -1,12 +1,13 @@
 # ReportAI
 
-<img alt="reportAI Logo" src="https://raw.githubusercontent.com/AdirthaBorgohain/ReportAI/main/report_ai/assets/reportAI-logo.png" width="200"/>
+<img alt="reportAI Logo" src="https://raw.githubusercontent.com/AdirthaBorgohain/ReportAI/main/report_ai/assets/logos/reportAI-logo-light.png" width="200"/>
 
 reportAI is a Python-based tool that generates comprehensive PDF research reports using AI. Simply input conversations 
 with an AI model in a structured format, and reportAI will produce a detailed report complete with an executive summary, 
 properly formatted sections, tables, and figures. Using cleverly implemented techniques to deduplicate any repeated 
 content in the report, it ensures all the content are straight to the point while being descriptive without creating 
-any repetition on the report content.
+any repetition on the report content. The final output is a PDF of around 9-15 pages depending on the number of messages 
+passed for report generation.
 
 ## Features
 
@@ -20,7 +21,7 @@ any repetition on the report content.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/reportAI.git
+git clone https://github.com/AdirthaBorgohain/reportAI.git
 cd reportAI
 ```
 
@@ -63,5 +64,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ### This project is built using:
 
 <a href="https://github.com/langchain/langchain" target="_blank">
-    <img alt="LangChain Logo" src="https://raw.githubusercontent.com/AdirthaBorgohain/ReportAI/main/report_ai/assets/langchain-logo-light.svg" width="100"/>
+    <img alt="LangChain Logo" src="https://raw.githubusercontent.com/AdirthaBorgohain/ReportAI/main/report_ai/assets/logos/langchain-logo-light.svg" width="100"/>
 </a>
