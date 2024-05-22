@@ -47,11 +47,11 @@ CLAUDE_MODEL={CLAUDE MODEL TO USE IN CASE LLM IS SET TO 'claude'. Valid values a
 
 ## Usage
 
-Checkout `report.py` for an example on how to generate reports using your conversations.
+Checkout `main.py` for an example on how to generate reports using your conversations.
 
 ## Sample Report
 
-A sample generated report generated using the messages in `report.py` can be found in `report_ai/reports/sample.pdf`.
+A sample generated report generated using the messages in `main.py` can be found in `report_ai/reports/sample.pdf`.
 
 Here are some screenshots of the sample report:
 
