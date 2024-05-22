@@ -49,6 +49,16 @@ CLAUDE_MODEL={CLAUDE MODEL TO USE IN CASE LLM IS SET TO 'claude'. Valid values a
 
 Checkout `report.py` for an example on how to generate reports using your conversations.
 
+## Sample Report
+
+A sample generated report generated using the messages in `report.py` can be found in `report_ai/reports/sample.pdf`.
+
+Here are some screenshots of the sample report:
+
+<img alt="Report Cover" src="https://raw.githubusercontent.com/AdirthaBorgohain/ReportAI/main/report_ai/assets/screenshots/1.png" width="500"/>
+
+<img alt="Report Content" src="https://raw.githubusercontent.com/AdirthaBorgohain/ReportAI/main/report_ai/assets/screenshots/2.png" width="500"/>
+
 ## Contributing
 
 1. Fork the repository.
