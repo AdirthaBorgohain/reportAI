@@ -31,6 +31,8 @@ cd reportAI
 pip install -r requirements.txt
 ```
 
+**NOTE**: You will need `python>=3.10` to run this project without having to make any changes to the codebase
+
 3. Set up your .env (inside `report_ai` directory) file with the necessary API keys and model configurations:
 
 ```makefile
@@ -69,7 +71,7 @@ Here are some screenshots of the sample report:
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
 
 ### This project is built using:
 

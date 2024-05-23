@@ -47,7 +47,7 @@ async def generate_report(serialized_conversation: str, report_skeleton: List[Di
         serialized_conversation, llm=llm
     )
 
-    for section in tqdm(report_skeleton[:5], desc="Generating report..."):
+    for section in tqdm(report_skeleton, desc="Generating report..."):
         # Combine all previously generated text sections into one string
         previous_text = '\n'.join(text_sections)
         # Generate the content for the current section in both HTML and text formats
